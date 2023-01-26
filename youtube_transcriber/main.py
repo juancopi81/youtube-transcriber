@@ -4,7 +4,7 @@ import argparse
 import sqlite3
 import shutil
 
-from datasets import Dataset, concatenate_datasets, load_dataset
+from datasets import Dataset, concatenate_datasets
 
 from youtube_transcriber.storing.createdb import create_db
 from youtube_transcriber.preprocessing.youtubevideopreprocessor import YoutubeVideoPreprocessor

@@ -1,2 +1,3 @@
-# whisper_gpt_pipeline
-A huggingface pipeline to train a gpt model based on the transcript obtained byt the Open AI whisper model
+# YouTube Transcriber
+
+This repo allows you to transcribe YouTube channels or playlist and create a HuggingFace text dataset using whisper. 
